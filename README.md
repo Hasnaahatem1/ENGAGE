@@ -34,5 +34,3 @@ Lab/
 1. Clone the repository. | قم بعمل Clone للمشروع.
 2. Open `html/index.html` in any browser. | افتح ملف `html/index.html` في أي متصفح.
 
-## 📄 License | الترخيص
-This project is licensed under the MIT License. | هذا المشروع مرخص تحت رخصة MIT.
